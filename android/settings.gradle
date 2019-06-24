@@ -1,0 +1,3 @@
+rootProject.name = 'monveot_5088'
+
+include ':app'
